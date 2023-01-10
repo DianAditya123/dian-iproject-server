@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Terlukis Indah",
+        "genre": "Pop",
+        "singer": "Rizky Febian feat. Ziva Magnolya",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bec326fb456741e71bfdb979"
+    },
+    {
+        "title": "Tentang Dirimu",
+        "genre": "Pop",
+        "singer": "Raisa",
+        "imageUrl": "https://images.genius.com/01a69fca741c06b2712cf4cddfaf17c8.1000x1000x1.jpg"
+    },
+    {
+        "title": "Bagaimana Kalau Aku Tidak Baik-Baik Saja",
+        "genre": "Pop",
+        "singer": "Judika",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8YCdhjLkzIdLnuaiGA5Jmtk9rDQ9vx9F49E_ItJhEyX208_QMy2s8xWay2I1TSvSaS0&usqp=CAU"
+    },
+    {
+        "title":"Ingkar",
+        "genre": "Pop",
+        "singer": "Tulus",
+        "imageUrl": "https://imgx.sonora.id/crop/0x0:0x0/x/photo/2021/08/16/ingkar-tulusjpg-20210816091400.jpg"
+    },
+    {
+        "title": "Pesan Terakhir",
+        "genre": "Pop",
+        "singer": "Lyodra",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d00e5994b61f1d93dafe9221"
+    },
+    {
+        "title": "Hadapi Berdua",
+        "genre":"Pop",
+        "singer": "Tiara Andini",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389bb366add0270a2e120d7ab"
+    },
+    {
+        "title": "Hari Bahagia",
+        "genre": "Pop",
+        "singer": "Atta Halilintar dan Aurel Hermansyah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f9b716342abcc05a5e754fb"
+    },
+    {
+        "title": "Sahabat Tak Akan Pergi",
+        "genre": "Pop",
+        "singer": "Betrand Peto feat Anneth Delliecia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f189398ffa36192e331d4e90"
+    },
+    {
+        "title": "Bisa Tanpamu",
+        "genre": "Pop",
+        "singer": "Andmesh",
+        "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/02/7a/2b/027a2bfa-4fb7-7c89-5d32-2123b6fe834b/cover.jpg/1200x1200bf-60.jpg"
+    },
+    {
+        "title": "Tenang",
+        "genre": "Pop",
+        "singer": "Yura Yunita",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738659da678e9247d72d936e00"
+    }
+]
